@@ -8,6 +8,7 @@ Steve wants to expand the dataset to include the entire stock market over the la
 
 ## Analysis
 The refractored code successfully cut down on the time it took for our code to run through the stock information. The original code took 0.289 seconds while the refractored code took 0.0859 seconds - screenshots below:
+
 <img width="341" alt="VBA_Challenge_2017_Original" src="https://user-images.githubusercontent.com/88937178/131275576-174660d8-4786-4403-bdaf-5fa404ea3c96.png"><img width="328" alt="VBA_Challenge_2018_Original" src="https://user-images.githubusercontent.com/88937178/131275608-73cf0fbe-0f9d-4cdb-b8f0-11c4f3eb3888.png">
 
 <img width="279" alt="VBA_Challenge_2017_Refractored" src="https://user-images.githubusercontent.com/88937178/131275586-b9eb0dc7-7896-4d79-bc93-c97852748464.png"><img width="270" alt="VBA_Challenge_2018_Refractored" src="https://user-images.githubusercontent.com/88937178/131275624-bbce7d89-248c-4aa0-a111-dab01cd8e2e0.png">
